@@ -1,2 +1,2 @@
 # one-fit.ru
-![one-fit.ru](docs/images/one-fit.ru.png)
+![one-fit.ru](docs/one-fit.ru.png)
